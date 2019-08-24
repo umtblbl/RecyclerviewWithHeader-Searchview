@@ -1,7 +1,7 @@
 # RecyclerviewWithHeader-Searchview
 
-- RecyclerView'in ilk elemanına Headar olarak içinde SearchView bulunan farklı bir layout eklenmiştir.
+- A different layout with SearchView is added to the first element of the RecyclerView.
 
-- Kullanıcının, SearchView üzerinde kaydırmayı bıraktığı konuma göre yumuşak geçiş animasyonları eklenmiştir.
+- Soft transition animations have been added based on the location where the user has stopped scrolling on SearchView.
 
 ![](https://media.giphy.com/media/lr6pxxsAShF1rXvhwB/giphy.gif)
